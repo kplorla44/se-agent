@@ -1,4 +1,4 @@
-# Project Brief: <App name>
+# Project Brief: <CompusConnecctUNT>
 
 > This file is what se-agent reads. Keep it under about 4,000 characters (~700 words).
 > Replace every <...>. Delete these quote lines. Copy `examples/water-tracker.md` for a worked example.

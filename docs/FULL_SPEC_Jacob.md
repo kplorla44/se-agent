@@ -1,6 +1,6 @@
 # Full Spec: CampusConnect UNT
 
-**Team:** Emmanuel Dickson, Aeshwa Kachhadiya, Kavya Balaji Singh, Darshil Amit Soni, Jacob Tandoh  **Date:** Nov 19, 2026  **Committer:** Aeshwa Kachhadiya
+**Team:** Emmanuel Dickson, Aeshwa Kachhadiya, Kavya Balaji Singh, Darshil Amit Soni, Jacob Tandoh  **Date:** Nov 19, 2026  **Committer:** Jacob Kplorla Tandoh
 
 **Roles:** Product Owner Emmanuel Dickson | Process lead Aeshwa Kachhadiya | Architect Jacob Tandoh | Quality lead Kavya Balaji Singh | Prompt engineer Darshil Amit Soni
 
